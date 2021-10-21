@@ -1,48 +1,59 @@
-## Education
-
-Belarusian State University
-
-Faculty of Radiophysics and Electronics
-
-Specialization: Cybernetics
-
-## Location 
-
-Belarus, Minsk
+Full Stack Developer with 15+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
 
 ## Experience
 
 #### AtmSystem Company
 
-2015 - Present
+*2015 - Present*
 
-Senior Software Development Engineer
+**Senior Software Development Engineer**
 
+Full-stack development of enterprise-level web applications. Development of the architecture of applications, databases, deployment systems.
 
 #### Freelance
 
-From 2005 to 2015
+*From 2005 to 2015*
 
-Web development and design.
+**Web development and design**
 
+Development of sites and web applications.
 
 #### Publishing business
 
-Until 2005
+*Until 2005*
 
 
+## Skills
 
-## Skills:
+Languages: php *(High tier, 10+ years)*, Javascript *(High tier, 10+ years)*, Typescript *(High tier, 10+ years)*, HTML5/CSS *(High tier, 10+ years)*, Go *(Middle tier, 3 years)*, Python *(Middle tier, 1 year)*
 
-Languages: php(High tier), Javascript(High tier), Typescript(High tier), HTML5/CSS(High tier), Go(Middle tier), Python(Middle tier)
-
-Frameworks: Laravel(High tier), Angular(High tier), NodeJS(High tier), Django(Middle tier)
+Frameworks: Laravel *(High tier)*, Angular *(High tier)*, NodeJS *(High tier)*, Django *(Middle tier)*
 
 Databases: SQL (PostgreSQL, MySQL), NoSql (MongoDB, Redis)
 
 Tools: Docker, Unix, Git, Jira
 
-## Last projects:
+## Last projects
+
+### Human Resource Management System (HRMS)
+
+> Purpose and basic functions of HRMS is to allow Air Traffic Control (ATC) Unit Managerial staff
+to manage ATC personal in productive and appropriate way by means of personnel management processes
+automation based on employee data processing, training and testing, pre-shift briefing,
+work shift planning (shift rostering), and provision of ATC personnel data statistics by means of reports.
+
+Technology Stack: php(Laravel Framework), NodeJS, Go, Python, Angular, PostgreSQL, Redis, Docker
+
+*In production since 2020*
+
+### Flight Management System Emulator (FMS D-Emulator)
+
+> Designed for testing digital transmission systems of flight data information,
+as well as training pilots to work with the FMS aircraft navigation system.
+
+Technology Stack: NodeJS, Angular, MongoDB, Redis
+
+*In production since 2018*
 
 ### Airspace use tool (AUT)
 
@@ -52,23 +63,15 @@ Technology Stack: php(Laravel Framework), AngularJs, PostgreSQL, Redis
 
 *In production since 2016*
 
-### Flight Management System Emulator (FMS D-Emulator)
 
-> Designed for testing digital transmission systems of flight data information, 
-as well as training pilots to work with the FMS aircraft navigation system.
+## Education
 
-Technology Stack: NodeJS, Angular, MongoDB, Redis
+Belarusian State University
 
-*In production since 2018*
+Faculty of Radiophysics and Electronics
 
-### Human Resource Management System (HRMS)
+Specialization: Cybernetics
 
-> Purpose and basic functions of HRMS is to allow Air Traffic Control (ATC) Unit Managerial staff 
-to manage ATC personal in productive and appropriate way by means of personnel management processes 
-automation based on employee data processing, training and testing, pre-shift briefing, 
-work shift planning (shift rostering), and provision of ATC personnel data statistics by means of reports.
+## Location
 
-Technology Stack: php(Laravel Framework), NodeJS, Go, Python, Angular, PostgreSQL, Redis, Docker
-
-*In production since 2020*
-
+Belarus, Minsk
