@@ -2,7 +2,7 @@ Full Stack Developer with 15+ years of hands-on experience designing, developing
 
 ## Experience
 
-#### AtmSystem Company
+### AtmSystem Company
 
 *2015 - Present*
 
@@ -10,7 +10,7 @@ Full Stack Developer with 15+ years of hands-on experience designing, developing
 
 Full-stack development of enterprise-level web applications. Development of the architecture of applications, databases, deployment systems.
 
-#### Freelance
+### Freelance
 
 *From 2005 to 2015*
 
@@ -18,20 +18,20 @@ Full-stack development of enterprise-level web applications. Development of the 
 
 Development of sites and web applications.
 
-#### Publishing business
+### Publishing business
 
 *Until 2005*
 
 
 ## Skills
 
-Languages: php *(High tier, 10+ years)*, Javascript *(High tier, 10+ years)*, Typescript *(High tier, 10+ years)*, HTML5/CSS *(High tier, 10+ years)*, Go *(Middle tier, 3 years)*, Python *(Middle tier, 1 year)*
+**Languages:** php *(High tier, 10+ years)*, Javascript *(High tier, 10+ years)*, Typescript *(High tier, 10+ years)*, HTML5/CSS *(High tier, 10+ years)*, Go *(Middle tier, 3 years)*, Python *(Middle tier, 1 year)*
 
-Frameworks: Laravel *(High tier)*, Angular *(High tier)*, NodeJS *(High tier)*, Django *(Middle tier)*
+**Frameworks:** Laravel *(High tier)*, Angular *(High tier)*, NodeJS *(High tier)*, Django *(Middle tier)*
 
-Databases: SQL (PostgreSQL, MySQL), NoSql (MongoDB, Redis)
+**Databases:** SQL (PostgreSQL, MySQL), NoSql (MongoDB, Redis)
 
-Tools: Docker, Unix, Git, Jira
+**Tools:** Docker, Unix, Git, Jira
 
 ## Last projects
 
@@ -42,7 +42,7 @@ to manage ATC personal in productive and appropriate way by means of personnel m
 automation based on employee data processing, training and testing, pre-shift briefing,
 work shift planning (shift rostering), and provision of ATC personnel data statistics by means of reports.
 
-Technology Stack: php(Laravel Framework), NodeJS, Go, Python, Angular, PostgreSQL, Redis, Docker
+**Technology Stack:** php(Laravel Framework), NodeJS, Go, Python, Angular, PostgreSQL, Redis, Docker
 
 *In production since 2020*
 
@@ -51,7 +51,7 @@ Technology Stack: php(Laravel Framework), NodeJS, Go, Python, Angular, PostgreSQ
 > Designed for testing digital transmission systems of flight data information,
 as well as training pilots to work with the FMS aircraft navigation system.
 
-Technology Stack: NodeJS, Angular, MongoDB, Redis
+**Technology Stack:** NodeJS, Angular, MongoDB, Redis
 
 *In production since 2018*
 
@@ -59,7 +59,7 @@ Technology Stack: NodeJS, Angular, MongoDB, Redis
 
 > The application is intended for filing and processing applications for the use of the airspace on the Internet.
 
-Technology Stack: php(Laravel Framework), AngularJs, PostgreSQL, Redis
+**Technology Stack:** php(Laravel Framework), AngularJs, PostgreSQL, Redis
 
 *In production since 2016*
 
@@ -75,3 +75,5 @@ Specialization: Cybernetics
 ## Location
 
 Belarus, Minsk
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
