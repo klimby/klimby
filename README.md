@@ -76,4 +76,4 @@ Specialization: Cybernetics
 
 Belarus, Minsk
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=klimby&count_private=true&hide=stars,prs,issues,contribs)
