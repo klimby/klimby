@@ -1,26 +1,31 @@
+<style>
+.position    {color: grey; font-weight: bold;}
+.period    {color: grey; font-style: italic;}
+</style>
+
 Full Stack Developer with 15+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
 
 ## Experience
 
 #### AtmSystem Company
 
-*2015 - Present*
+<p class="period">2015 - Present</p>
 
-**Senior Software Development Engineer**
+<p class="position">Senior Software Development Engineer</p>
 
 Full-stack development of enterprise-level web applications. Development of the architecture of applications, databases, deployment systems.
 
 #### Freelance
 
-*From 2005 to 2015*
+<p class="period">From 2005 to 2015</p>
 
-**Web development and design**
+<p class="position">Web development and design</p>
 
 Development of sites and web applications.
 
 #### Publishing business
 
-*Until 2005*
+<p class="period">Until 2005</p>
 
 
 ## Skills
