@@ -63,7 +63,6 @@ as well as training pilots to work with the FMS aircraft navigation system.
 
 *In production since 2016*
 
-
 ## Education
 
 Belarusian State University
@@ -72,8 +71,20 @@ Faculty of Radiophysics and Electronics
 
 Specialization: Cybernetics
 
+## Courses
+
+- [Developing web services in Go, part I](https://www.coursera.org/account/accomplishments/verify/7KXWGSDNYZBM)
+- [Developing web services in Go, part II](https://www.coursera.org/account/accomplishments/verify/F5L39T8J8CVW)
+- [Python 3](https://www.udemy.com/certificate/UC-2180dcf9-c0bf-40be-91d8-87d6b7c0233e)
+
 ## Location
 
 Belarus, Minsk
+
+## Contacts
+
+E-mail: spam@klim.by
+
+LinkedIn: linkedin.com/in/klimby
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=klimby&count_private=true&hide=stars,prs,issues,contribs)
