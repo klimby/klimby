@@ -35,6 +35,14 @@ Development of sites and web applications.
 
 ## Last projects
 
+# Complex of means of automation of personnel management Planning of shifts of the dispatcher staff of the ATC units and the air traffic control center
+
+The complex is designed to automate the planning and scheduling processes for planning dispatcher shifts of ATS units and ATM DCs.
+
+**Technology Stack:** PHP(Laravel Framework), Node.js, Go, Python, Angular, PostgreSQL, Redis, Docker
+
+*In production since 2021*
+
 ### Human Resource Management System (HRMS)
 
 > Purpose and basic functions of HRMS is to allow Air Traffic Control (ATC) Unit Managerial staff
@@ -42,7 +50,7 @@ to manage ATC personal in productive and appropriate way by means of personnel m
 automation based on employee data processing, training and testing, pre-shift briefing,
 work shift planning (shift rostering), and provision of ATC personnel data statistics by means of reports.
 
-**Technology Stack:** php(Laravel Framework), NodeJS, Go, Python, Angular, PostgreSQL, Redis, Docker
+**Technology Stack:** PHP(Laravel Framework), Node.js, Go, Python, Angular, PostgreSQL, Redis, Docker
 
 *In production since 2020*
 
@@ -51,7 +59,7 @@ work shift planning (shift rostering), and provision of ATC personnel data stati
 > Designed for testing digital transmission systems of flight data information,
 as well as training pilots to work with the FMS aircraft navigation system.
 
-**Technology Stack:** NodeJS, Angular, MongoDB, Redis
+**Technology Stack:** Node.js, Angular, MongoDB, Redis
 
 *In production since 2018*
 
@@ -59,7 +67,7 @@ as well as training pilots to work with the FMS aircraft navigation system.
 
 > The application is intended for filing and processing applications for the use of the airspace on the Internet.
 
-**Technology Stack:** php(Laravel Framework), AngularJs, PostgreSQL, Redis
+**Technology Stack:** PHP(Laravel Framework), AngularJs, PostgreSQL, Redis
 
 *In production since 2016*
 
