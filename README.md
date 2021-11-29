@@ -31,7 +31,7 @@ Development of sites and web applications.
 
 **Databases:** SQL (PostgreSQL, MySQL), NoSql (MongoDB, Redis)
 
-**Tools:** Docker, Unix, Git, Jira
+**Tools:** Docker, Ansible, Unix, Git, Jira
 
 ## Last projects
 
@@ -73,10 +73,12 @@ Specialization: Cybernetics
 
 ## Courses
 
+- [Specialization "Programming with Google Go"](https://www.coursera.org/verify/specialization/8YMK7A7TD4RJ)
 - [Developing web services in Go, part I](https://www.coursera.org/account/accomplishments/verify/7KXWGSDNYZBM)
 - [Developing web services in Go, part II](https://www.coursera.org/account/accomplishments/verify/F5L39T8J8CVW)
 - [Python 3](https://www.udemy.com/certificate/UC-2180dcf9-c0bf-40be-91d8-87d6b7c0233e)
 - [The Complete Node.js Developer Course](https://www.udemy.com/certificate/UC-e8b65d84-c00c-4698-b55a-ca31af1fabb4)
+- [Agile and Scrum in working on projects and products](https://www.coursera.org/account/accomplishments/verify/6XY8WXN8Q38R)
 
 ## Location
 
