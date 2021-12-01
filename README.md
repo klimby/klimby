@@ -22,7 +22,6 @@ Development of sites and web applications.
 
 *Until 2005*
 
-
 ## Skills
 
 **Languages:** php *(High tier, 10+ years)*, Javascript *(High tier, 10+ years)*, Typescript *(High tier, 10+ years)*, HTML5/CSS *(High tier, 10+ years)*, Go *(Middle tier, 3 years)*, Python *(Middle tier, 1 year)*
