@@ -98,4 +98,6 @@ E-mail: spam@klim.by
 
 LinkedIn: linkedin.com/in/klimby
 
+Site: klim.by
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=klimby&count_private=true&hide=stars,prs,issues,contribs)
