@@ -26,7 +26,7 @@ Development of sites and web applications.
 
 **Languages:** php *(High tier, 10+ years)*, Javascript *(High tier, 10+ years)*, Typescript *(High tier, 10+ years)*, HTML5/CSS *(High tier, 10+ years)*, Go *(Middle tier, 3 years)*, Python *(Middle tier, 1 year)*
 
-**Frameworks:** Laravel *(High tier)*, Angular *(High tier)*, NodeJS *(High tier)*, Django *(Middle tier)*
+**Frameworks:** Laravel *(High tier)*, Angular *(High tier)*, Node.js *(High tier)*, Django *(Middle tier)*
 
 **Databases:** SQL (PostgreSQL, MySQL), NoSql (MongoDB, Redis)
 
@@ -80,6 +80,7 @@ Specialization: Cybernetics
 
 ## Courses
 
+- [Devops in practice](https://www.coursera.org/account/accomplishments/verify/VACRXA4GHMWJ)
 - [Specialization "Programming with Google Go"](https://www.coursera.org/verify/specialization/8YMK7A7TD4RJ)
 - [Developing web services in Go, part I](https://www.coursera.org/account/accomplishments/verify/7KXWGSDNYZBM)
 - [Developing web services in Go, part II](https://www.coursera.org/account/accomplishments/verify/F5L39T8J8CVW)
