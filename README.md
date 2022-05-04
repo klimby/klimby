@@ -34,7 +34,7 @@ Development of sites and web applications.
 
 ## Last projects
 
-# Complex of means of automation of personnel management Planning of shifts of the dispatcher staff of the ATC units and the air traffic control center
+### Complex of means of automation of personnel management Planning of shifts of the dispatcher staff of the ATC units and the air traffic control center
 
 The complex is designed to automate the planning and scheduling processes for planning dispatcher shifts of ATS units and ATM DCs.
 
